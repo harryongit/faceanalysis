@@ -13,6 +13,8 @@ Race Classification: Race classification, also known as ethnicity recognition, a
 
 Emotion Recognition: Emotion recognition involves detecting and classifying the emotional state of a person based on their facial expressions. Machine learning models are trained on labeled datasets of facial images or videos that depict various emotions, such as happiness, sadness, anger, and surprise. These models learn to recognize facial cues, such as eye movements, eyebrow position, and mouth shape, that correspond to different emotions.
 
+DeepFace is a popular Python library that provides facial analysis functionalities, including face recognition, emotion detection, age estimation, gender detection, and facial attribute analysis. It is built on top of deep learning frameworks such as Keras and TensorFlow.
+
 Requirements:
 1) DeepFace Library
 2) MATPLOTLIB
